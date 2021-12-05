@@ -14,7 +14,9 @@ Training sessions  on Saturday, December 4th and Sunday, December 5th.
 
 
 * Day 1: 
-https://vistaprint.zoom.us/rec/share/0_BoSyBmYJ-VXltb8OfsZNh6G7LtZwCz8sju6hBScx-RoqODThkTzfURm1_XwYA.M0WMOtG9eTLBhjQN Passcode: .wF0h=QF 
-https://vistaprint.zoom.us/rec/share/7C2_06cRuDAuBKDDqbzFtImY2TWryvtW1iZ3ptfFmFBT3_6jD7HSx8s_83id2Irn.4YsqDY4-rIU2oQwZ Passcode: hu5yL@#r 
+
+- https://vistaprint.zoom.us/rec/share/0_BoSyBmYJ-VXltb8OfsZNh6G7LtZwCz8sju6hBScx-RoqODThkTzfURm1_XwYA.M0WMOtG9eTLBhjQN Passcode: .wF0h=QF 
+- https://vistaprint.zoom.us/rec/share/7C2_06cRuDAuBKDDqbzFtImY2TWryvtW1iZ3ptfFmFBT3_6jD7HSx8s_83id2Irn.4YsqDY4-rIU2oQwZ Passcode: hu5yL@#r 
+
 
 * Day 2:
