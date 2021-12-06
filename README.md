@@ -20,3 +20,5 @@ Training sessions  on Saturday, December 4th and Sunday, December 5th.
 
 
 * Day 2:
+https://vistaprint.zoom.us/rec/share/eF_busFRVDh4aCZSjGUD2ME8ziDubVfJxnmIii4jQMrcLcet7MpKZ16s_UcUWis.2e4eo63xfUHSb1PA Passcode: xJew2?Z3 
+https://vistaprint.zoom.us/rec/share/KtvzQ4kNGIBKd_32yhxgJWJJaKkzNRPfBEzVgWA439EHDm5k8gBCQWLf2p3KYos-.w7_CS2boCU37gZBV Passcode: nk=1J+Ry 
