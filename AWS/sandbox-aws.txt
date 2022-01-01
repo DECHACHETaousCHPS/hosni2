@@ -1,0 +1,7 @@
+https://204260424023.signin.aws.amazon.com/console?region=us-east-1
+
+user: cloud_user
+Password: &8Qpdhlnwg
+
+Access Key ID: AKIAS7DW6XFL5TNIWVEA
+Secret Access Key: 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
