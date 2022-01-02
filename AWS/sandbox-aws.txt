@@ -1,7 +1,7 @@
-https://367026397610.signin.aws.amazon.com/console?region=us-east-1
+https://579122910957.signin.aws.amazon.com/console?region=us-east-1
 
 user: cloud_user
-Password: $4Rtvjimgx
+Password: &8Pnyrmwur
 
-Access Key ID: AKIAVK5D2MGVDALNPPWW
-Secret Access Key: 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
+Access Key ID: AKIAYNVTKK3W4Q4TW6HV
+Secret Access Key: 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
